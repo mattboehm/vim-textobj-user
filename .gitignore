@@ -1,3 +1,10 @@
-.vim-flavor
-Gemfile.lock
-VimFlavor.lock
+post.pl
+vim_passfile
+.*.un~
+.*.sw*
+# ignore vimballs
+*.vba
+*.vmb
+# ignore *.orig files
+*.orig
+doc/tags
